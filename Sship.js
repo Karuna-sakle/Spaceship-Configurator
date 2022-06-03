@@ -132,10 +132,7 @@ export const Spaceship = () => {
                 </Card>
               
                 </div>
-              
-                
-
-            </div>
+                </div>
             </div>
             </center>
         </div>
